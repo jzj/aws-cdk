@@ -12628,13 +12628,13 @@
         },
         "RootDirectory": {
           "Documentation": "http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-efsvolumeconfiguration.html#cfn-ecs-taskdefinition-efsvolumeconfiguration-rootdirectory",
-          "PrimitiveItemType": "String",
+          "PrimitiveType": "String",
           "Required": false,
           "UpdateType": "Immutable"
         },
         "TransitEncryption": {
           "Documentation": "http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-efsvolumeconfiguration.html#cfn-ecs-taskdefinition-efsvolumeconfiguration-transitencryption",
-          "PrimitiveItemType": "String",
+          "PrimitiveType": "String",
           "Required": false,
           "UpdateType": "Immutable"
         },
